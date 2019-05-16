@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <NetworkLink>
+   <linkName>Vessels</linkName>
+   <refreshVisibility>1</refreshVisibility>
+    <open>1</open>
+    <Url>
+      <href>http://localhost:21579</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>0.2</refreshInterval>
+    </Url>
+  </NetworkLink>
+</kml>
